@@ -1,0 +1,21 @@
+{
+  "name": "openping",
+  "version": "1.0.0",
+  "description": "A free, open-source API that watches the live internet and alerts you when websites change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsymAlwali/openping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AsymAlwali/openping/issues"
+  },
+  "homepage": "https://github.com/AsymAlwali/openping#readme"
+}
